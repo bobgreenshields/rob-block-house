@@ -1,0 +1,16 @@
+- mob: a
+  area: 1
+  notes: "bored, unprepared"
+
+- mob: b
+  area: 9
+  notes: "Resting and sleeping"
+
+- mob: c
+  area: 19
+  notes: "playing cards"
+
+- mob: sergeant
+  area: 14
+  notes: "sharpening his sword absentmindedly"
+

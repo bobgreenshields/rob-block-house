@@ -1,0 +1,20 @@
+a:
+  pp: "11"
+  loot: ""
+  desc: "2 guards"
+
+b:
+  pp: "11"
+  loot: ""
+  desc: "3 guards"
+
+c:
+  pp: "11"
+  loot: ""
+  desc: "4 guards"
+
+sergeant:
+  pp: "13"
+  loot: "15 sp and 23 cp"
+  desc: "Half-orc sergeant"
+
