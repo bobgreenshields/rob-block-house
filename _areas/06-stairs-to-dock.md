@@ -10,8 +10,4 @@ leads_to:
   - 5
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+The steps then continue a relatively short distance (only 2 or so twists) until they open onto the end of the dock.

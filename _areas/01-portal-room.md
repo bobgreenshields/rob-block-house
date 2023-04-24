@@ -9,4 +9,4 @@ leads_to:
   - 2
 ---
 
-Carved out of a natural cave this subterranean room is lit by 3 torches held in wall brackets.
+Carved out of a natural cave, this subterranean room is lit by the eerie glow of the warpstones in the portal and 3 torches held in wall brackets.

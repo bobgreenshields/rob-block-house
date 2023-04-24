@@ -10,8 +10,4 @@ leads_to:
   - 6
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+The warehouse is a natural cavern about 8 metres across and 5 high.  The floor has been worked to level and there are a number of wooden crates lying about.  All are empty.
