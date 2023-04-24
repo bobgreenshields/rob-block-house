@@ -1,6 +1,6 @@
 ---
 layout: area
-title: "Corridor"
+title: "Ground corridor"
 number: 7
 description: "Connecting corridor on the ground floor"
 categories: area
