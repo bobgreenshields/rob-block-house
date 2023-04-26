@@ -16,7 +16,4 @@ leads_to:
 
 A wooden staircase drops through the floor down to [7 Ground floor corridor]({{ site.baseurl }}{% link _areas/07-corridor.md %})
 
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+Four guards are playing cards at the table.  They will be a little slow to respond but will defend themselves before shouting for Gren to sound the alarm.  He will then run off and start climbing the ladder.

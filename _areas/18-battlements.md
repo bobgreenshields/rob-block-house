@@ -9,8 +9,4 @@ leads_to:
   - 19
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+Rough crenelations have been crudely chopped from the shoulder high walls to form battlements.

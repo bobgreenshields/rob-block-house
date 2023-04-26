@@ -11,3 +11,5 @@ leads_to:
 ---
 
 A powerful smell of rotting food and excrement makes this a tempting room to spend time in.
+
+There are a couple of empty torch brackets on the walls.

@@ -1,8 +1,16 @@
 - title: "Table"
   desc: |-
-    The guards are drinking and playing cards for copper pieces on the table.
+    The guards are drinking and playing cards for copper pieces on the table.  Their spears are propped against the wall nearby.
 
-- title: "Stores"
+- title: "Crates and boxes scattered about"
   desc: |-
-    
+    Crates and boxes are scattered around the room.
+
+- title: "Crossbows and bolts by the double doors"
+  desc: |-
+    Two light crossbows stand by the side of the double doors to the battlements.  Stacked by their side are seven bundles of bolts, each bundle holds 6-7 bolts.
+
+- title: "Ladder to roof hatch"
+  desc: |-
+    A ladder leads up to a trapdoor in the roof.  Above, on the roof, a crudely made bell hangs from a wooden frame.  A rough metal rod rests on the frame.  This is the alarm bell.  
 

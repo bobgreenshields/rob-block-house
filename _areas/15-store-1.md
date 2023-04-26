@@ -9,8 +9,5 @@ leads_to:
   - 19
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+General stores are neatly stacked but not well-organised.  A large supply of firewood, torches, candles, lamps, oil, utensils, kitchen and eating stuff, rush matting, some rope, twine, chain and a couple of picks (tools, not designed to be weapons).
 
