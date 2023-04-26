@@ -7,11 +7,9 @@ categories: area
 player_images:
 leads_to:
   - 7
-  - 19
 ---
 
 
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
+* DC 18 to hear the sergeant sharpening his sword through the slightly open door
 

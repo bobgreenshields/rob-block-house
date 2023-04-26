@@ -1,0 +1,8 @@
+cp grnd.jpg 7.jpg
+cp grnd.jpg 8.jpg
+cp grnd.jpg 9.jpg
+cp grnd.jpg 10.jpg
+cp grnd.jpg 11.jpg
+cp grnd.jpg 12.jpg
+cp grnd.jpg 13.jpg
+cp grnd.jpg 14.jpg

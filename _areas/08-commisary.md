@@ -9,8 +9,6 @@ leads_to:
   - 7
 ---
 
-
-[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
-* DC 18 something hidden
-* DC 10 something obvious
-
+- a large table, surrounding it are
+- 6 chairs 
+- a large barrel of water with a ladle in the corner
